@@ -1,9 +1,9 @@
 # data_science
 
 ### Education
+Data Analytics, Masters <br>
 Marketing, BS <br>
-  minors Communications and Data Analytics <br>
-Data Analytics, Masters
+  minors -Communications, Data Analytics <br>
 
 ### Work Experience
 
