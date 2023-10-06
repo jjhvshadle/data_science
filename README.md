@@ -21,7 +21,7 @@ Looker Studio (Data Studio),
 Campaign Manager.
 
 ##### Microsoft Office suite
-    Word, PPT, Excel. 
+Word, PPT, Excel. 
 ##### Social Listening:
 Talkwalker, Sprinklr, Sprout Social.
 ##### Social Media:
